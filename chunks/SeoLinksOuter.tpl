@@ -1,0 +1,1 @@
+<ul class="list-unstyled flex-wrap m-0 w-100 d-block ds-md-flex justify-content-sm-between justify-content-center text-center text-md-left">{$wrapper}</ul>

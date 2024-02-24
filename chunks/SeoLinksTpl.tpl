@@ -1,0 +1,1 @@
+<li><a class="text-white px-2" href="{$url}" style="font-size: 13px;">{$menutitle}</a></li>

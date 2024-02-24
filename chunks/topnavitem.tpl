@@ -1,0 +1,1 @@
+<a href="{$link}" title="{$menutitle}" {$classes}>{$menutitle}</a>

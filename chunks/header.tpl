@@ -138,6 +138,7 @@
           'showHome' => '1',
           'tplWrapper' => '@INLINE <ul class="breadcrumbs list-unstyled my-auto px-2">{$output}</ul>',
           'tpl' => '@INLINE <li><a href="{$link}" title="{$menutitle}" class="clr3"><span>{$menutitle}</span></a></li>',
+          'tplHome' => '@INLINE <li><a href="{$link}" title="{$menutitle}" class="clr3"><span><i class="fa-solid fa-home fa-xl" style="color: #007257;"></i></span></a></li>',
           'tplCurrent' => '@INLINE <li><span>{$pagetitle}</span></li>',
           ]}
         </div>

@@ -187,6 +187,7 @@
   'tplOuter' => '@FILE chunks/catalog/catalogproducts.tpl',
   'tpls' => '@FILE chunks/catalog/TovarTpl.tpl',
   'snippet' => 'mFilter2',
+  'includeTVs' => 'titletovar',
   'sort' => 'published:DESC',
   'filters' => '
   ms|price:number,
